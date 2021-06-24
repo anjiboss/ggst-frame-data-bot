@@ -1,0 +1,14 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+[4]6S,Sickle Flash,37,All,24,,,-19~-9,,,,,
+[4]6S 8,Soaring Chain Strike,30,All,8,,,-11,,,,,
+[4]6S 2,Spinning Chain Strike,57,Low,7,,,-6,,,,,
+[4]6S S,Winter Cherry,40 [60],All,18 [22],,,-3 [+10],,,,,
+41236H,Winter Mantis,61/62,Ground Throw,28,,,,,,,,
+214S,Rainwater,40,All,24,,,+3,,,,,
+214H,Snail,45,All,17,,,-24,,,,,
+j.214H,Snail,45,All,16,,,-25,,,,,
+j.623H,Axl Bomber,80,All,9,,,-22,,,,
+236236H,Sickle Storm,150,All,11+1,,,-2,,,,,
+632146P,One Vision,,,5+1,,,,,,,,
+632146P Attack,One Vision,,All,8+1,,,,,,,

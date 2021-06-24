@@ -1,0 +1,14 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+236S,Bajoneto,30->35,All,20,,,+9,22~40,,,,
+236H,Bajoneto,30->35,All,20,,,+3,KD,,,,
+623P,Dauro,35,All,11,,,-10,5/-1,,,,
+214K,Sildo Detruo,40,High,30,,,-3,KD,,,,
+j.214K,Sildo Detruo,40,High,30,,,-7~-4,KD,,,,
+214H,Sabrubato,100 [75] {50},All,19 [19] {19},,,-27 [-27] {-32},KD,,,,
+214P,Erarlumo,30,All,20,,,-9,1,,,,
+214P 214P,Erarlumo,35 [50],All,12 [12],[],[],-14 [-2],13 [21],,,,
+214P 214P 214P,Erarlumo,40 [70],All,22 [22],[],[],-19 [-19],KD,,,,
+j.214S,Agressa Ordono,30->30 [24->30] [30->24] {24->24},All,12 [12] {12},,,+2~-? [+2~-?] {+2~-?},KD,,,
+632146H,Calvados,4x29->40,,11+13,,,-70,KD,,,,
+236236S,Mortobato,160 [130] {100},,7+2 [7+2] {7+2},,,-30 [-30] {-35},KD,,,

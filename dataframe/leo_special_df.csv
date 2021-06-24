@@ -1,0 +1,13 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+[4]6S,Graviert Wurde,20*2,All,10,31 or Until Hit*2,Total 54F,-16,-13,3 (5),,,
+[4]6H,Graviert Wurde,16*4,All,35,Until Hit*4,,+11,+14,3 (5),,,
+[2]8S,Eisen Sturm,28->25,All,7,3->12,33,-28,,,,1-9,
+[2]8H,Eisen Sturm,28->25->28,All,8,3->12(10)5,42,-52,,,,1-10,
+236S,Kaltes Gestöber Erst,37,All,12,3,20,-6,,,,,
+236H,Kaltes Gestöber Zweit,41,All,16~23,3,22,-6 [+2],,,,,
+214S,Turbulenz,55,All,20,6,21,-8,,,,,
+bt.214K,Gländzendes Dunkel,115,Ground Throw,30,3,42,,,,,,
+bt.214H,Blitzschlag,65,Guard Break,29,3,13,+21,,,,
+632146S,Stahl Wirbel,170,All,4+1,,Total 27F,+14,,,,1-4,
+632146H,Liedenschaft des Dirigenten,20*4->50,All,10+1,8(15)12(13)8(10)8(44)6,43,-33,,,,1-18

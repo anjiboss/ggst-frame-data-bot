@@ -1,0 +1,16 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+41236K,Thrust,39,All,26,,,-12,-9,,,,
+41236K 4,Pull Back,39,,59,,,,,,,,
+41236K 4 H,Home Run!,126,,9,,,,,,,,
+236P,What Could This Be?,,,,,Total 40,,,,,,
+236S,Mix Mix Mix,44,All,21,,,,,,,,
+j.236S,Mix Mix Mix,44,All,,,,,,,,,
+236H,Snip Snip Snip,52,Ground Throw,6,,,,,,,,
+j.236P,Love,39,All,27,,,,,,,,
+214P,Scarecrow,54/81,All,63 [97],,,-8 [+7],,,,,
+214K,Scarecrow,54/81,All,63 [97],,,-8 [+7],,,,,
+214S,Scarecrow,49/68,High,56 [74],,,-32 [-27],,,,
+632146H,Bone-crushing Excitement,152,All,16+3,3,,-32,,,,,
+236236P,W-W-What Could This Be?,,,2+4,N/A,Total 43,N/A,N/A,,,,
+236236236P,W-W-W-W-W-W-W-W-W-What Could This Be?,,,,N/A,,N/A,N/A,,,

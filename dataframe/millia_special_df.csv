@@ -1,0 +1,14 @@
+input,name,damage,guard,prorate,startup,active,recovery,onBlock,onHit,riscGain,level
+
+236S,Tandem Top,35,All,Initial 78%,15,14,Total 48,-14,D,,,9-41F Airborne<br/>42-45F Below Knee
+,236H,Tandem Top,32*2,All,Initial 80%,73,34,Total 55,-,D,,
+18F onwards Airborne,,214S,Lust Shaker,7*3~9,All,100%,27,1[(3)1]*2~8,16,-5 [-9],,
+,None,,214P,Iron Savior,43,Low,Initial 88%,20,till corner,17 + 10L,-12,KD
+,,10F onwards Airborne,,j.236P,Bad Moon,5*N->31,High,Initial 80%,11,Until Ground,20 + 12L,-21
+D,,,None,,j.236K,Turbo Fall,-,-,,26,-,Landing 12
+-,-,,,None,,214K,Mirazh,-,-,,-,-
+Total 28,-,-,,,1-4F Upper Body<br/>5-25F Above Knee,,j.236H,Kapel,30,All,Initial 79%,13
+21,Total 30,-4 at lowest height,D,,,1-12F Upper Body
+236236S,Septem Voices,20*2->60,All,100%,4+5,till corner,Total 43,+8,KD,,,9-26F Airborne
+,632146H,Winger,20*5->60,Allx5->High,100%*5-> Forced 95%,6+1,10(9)15,30,-22,KD,,
+1-8F Full<br/>7-40F Airborne

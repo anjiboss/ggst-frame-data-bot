@@ -1,0 +1,10 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+236S,Zarameyuki,45,Mid,23,26,Total 44,+5,+8,500,2,,
+236K,Fukyo,N/A,N/A,1,N/A,Total 25,N/A,N/A,,N/A,,
+214K,Fukyo,N/A,N/A,1,N/A,Total 16,N/A,N/A,,N/A,,
+214H,Kamuriyuki,50,Mid,14,5,14,0,KD,2500,4,,
+623H,Shizuriyuki,45->55,Mid,13,3+8+6,29(45 on whiff),-16,KD,1000->1200,3->4,1~15F Upper Body,
+623P,Bloodsucking Universe,80->90->100,Ground Throw,7,2,48,NA,KD,,N/A,
+632146S,Wasureyuki,70+3*17+60=Total 181,Mid,7+173+2,2,47,-30,+73,2000,3,1~?F Full,
+632146H,Zansetsu,200,Mid,11+58+10,6,80,-66,+15,2500,4,1~?F Full

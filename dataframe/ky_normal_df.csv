@@ -1,0 +1,21 @@
+input,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+5P,26,All,5,4,7,-1,,5,0,none,
+5K,30,Low,7,8,6,-2,,10,1,none,
+c.S,42,All,7,6,13,-2,,20,3,none,
+f.S,34,All,12,6,19,-11,,15,2,none,
+5H,48,All,14,6,21,-8,,25,4,none,
+2P,22,All,5,4,8,-2,,5,0,none,
+2K,26,Low,6,4,10,-2,,10,1,none,
+2S,32,Low,10,2,20,-8,,15,2,none,
+2H,14-> 40,All,11,1->4,28,-13,,20->25,3->4,none,
+j.P,20,High,6,3,,,,5,0,none,
+j.K,26,High,7,4,,,,10,1,none,
+j.S,32,High,7,3,,,,15,2,none,
+j.H,44,High,13,4,,,,15,2,none,
+j.D,32,All,13,6,,,,15,2,none,
+6P,34,All,9,5,17,-8,,15,2,Upper Body 1-13f,
+6K,40,All,25,2,11,+4,,20,3,none,
+6H,52,All,15,4,20,-7,,20,3,none,
+2D,34,Low,10,6,18,-10,,15,2,none,
+5D,45 [56],High,20 [28],4,25,-15 [-10],,15,2,none

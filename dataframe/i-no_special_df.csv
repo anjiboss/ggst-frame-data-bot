@@ -1,0 +1,14 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+236S,Stroke the Big Tree,36,Low,16,,,-7,,,,,
+236H,Stroke the Big Tree,42,Low,28,,,+2,,,,,
+j.236K,Sultry Performance,35[50],All,10,,,-7~(-2) [-1],,,,,
+j.236S,Sultry Performance,35[50],All,10,,,-7~(-4) [-2],,,,,
+j.236H,Sultry Performance,10x2->20[10x4->20],All,8,,,?(-7),,,,,
+214P,Antidepressant Scale,12+[9x4],All,24,,,-16,,,,,
+j.214P,Antidepressant Scale,12+[9x4],All,21,,,-16,,,,,
+214K,Chemical Love,45,All,11,,,-2,,,,,
+j.214K,Chemical Love,45,All,,,,,,,,
+632146H,Megalomania,13*18 (17*11),Ground Throw-> All,11+0(41),,,N/A(-18),,,,,
+632146S,Ultimate Fortissimo,40->20x2->100,All,6+2,,,+26,,,,,
+j.632146S,Ultimate Fortissimo,20x2->100,All,5+3,,,+37,,,,

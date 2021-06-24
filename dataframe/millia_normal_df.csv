@@ -1,0 +1,23 @@
+input,damage,guard,prorate,startup,active,recovery,onBlock,onHit,riscGain,level
+
+5P,20,All,Initial 75%,7,5,7,-2,+1,,,None
+,5K,24,All,Initial 80%,7,3,12,-3,0,,
+None,,c.S,15*2,All,100%,7,3->3,16,-2,0,
+,None,,f.S,30,All,Initial 90%,10,2,19,-7,-4
+,,27-30F Head,,5H,42,All,100%,12,4,27,-12
+-9,,,None,,2P,18,All,Initial 80%,6,2,10
+-2,+1,,,None,,2K,18,Low,Initial 70%,6,3
+12,-3,0,,,None,,2S,28,Low,Initial 90%,11
+2,18,-6,-3,,,None,,2H,45,All,100%
+14,7,17,-7,D,,,None,,j.P,16,High
+Initial 75%,5,4,12,-,-,,,None,,j.K,20
+High,Initial 80%,6,4,12,-,-,,,None,,j.S
+32,High,Initial 79%,7,4,14,-,-,,,None,
+j.H,35,High,Initial 79%,8,10,25,-,-,,,None
+,j.D,35,High,Initial 80%,9,7,27,-,-,,
+None,,6P,26,All,Initial 90%,9,9,16,-11,-8,
+,1-2F Upper Body<br/>3-11F Above Knee,,6K,35,High,Initial 75%,28,2,11,+1,+4
+,,13-29F Below Knee,,6H,20->40,All,100%,17,5(16)4,23,-8
+-5,,,9-21F Airborne,,2D,30,Low,Forced 90%,12,3,22
+-11,KD,,,None,,5D,40 [50],High,Initial 75% [100%],20 [28],3
+26,-15 [-10],0 [D],,,None

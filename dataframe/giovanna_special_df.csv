@@ -1,0 +1,9 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+236K,Trovao,48 (50) [52],All,27,7,15,+2,+5,,,,
+214K,Sepultura,45 (47) [49],All,13,3,20,-4,KD,,,,
+623S,Sol Nascente,40 (42) [44],All,7,14,21,-15,KD,,,,
+214S,Sol Poente,30 (31) [33],High,(4) 30,6->(20) 3,10,+4,KD,,,,
+j.214S,Sol Poente,30 (31) [33],,(4) 30,6->(20) 3,,+4,KD,,,
+632146H,Ventania,168 [176],,5+3,,,-37,KD,,,,
+j.236236H,Tempestade,140 [150],,3+1,,,+5,KD,,,

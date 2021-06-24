@@ -1,0 +1,12 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+[4]6S,Mr. Dolphin Horizontal,35,All,7,15,11,-5,-2,,,,
+[4]6H,Mr. Dolphin Horizontal,45,All,25,15,11,+5,+8,,,,
+[2]8S,Mr. Dolphin Vertical,40,All/High,6,19,7,-3,,,,,
+[2]8H,Mr. Dolphin Vertical,45,All/High,11,27,8,+1,,,,,
+623K,Overhead Kiss,40-50,Throw,6,,45,N/A,,,,1~6F Throw,
+214P,Arisugawa Sparkle,50,All,48,6,Total 45,+29,+32,,,,
+214K,Arisugawa Sparkle,50,All,48,10,Total 45,+29,+32,,,
+236236S,Great Yamada Attack,190,All,10+,,,-54,,,,,
+632146H,The Wonderful and Dynamic Goshogawara,80 - 100,All,6+4,,,-21,,,,,
+j.632146H,The Wonderful and Dynamic Goshogawara,80 - 100,All,6+4,,,-21,,,,

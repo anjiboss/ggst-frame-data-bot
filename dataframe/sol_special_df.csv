@@ -1,0 +1,19 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+236P,Gun Flame,40→35→30→30,All,20,,Total 54,-8,D,,2,,80%
+,214P,Gun Flame (Feint),,,,,Total 30,,,,,
+,,623S,Volcanic Viper,40,All,7,9,27,-22,D,,2
+1~8F Strike,80%,,623H,Volcanic Viper,35->40[100],All,13,2(3)11,29,-26,D[KD],
+2->2[4],1~14F Strike,80%,,j.623S,Volcanic Viper,40,All,7,,Until Landing+10,,D
+,2,1~8F Strike,80%,,j.623H,Volcanic Viper,35->40[100],All,13,,Until Landing+10,
+D[KD],,2->2[4],1~14F Strike,80%,,236K,Bandit Revolver,20->25,All,16,,
+-7,D,,3,,100%,,j.236K,Bandit Revolver,20->25,All,10,
+Until Landing+9,,D,,3,,100%,,214K,Bandit Bringer,50,High,30
+,,-2,KD,,3,,80%,,j.214K,Bandit Bringer,40,High
+25~33,,Until Landing+12,,KD,,3,,80%,,623K,Wild Throw,120
+Ground Throw,6,1,,N/A,KD(+8),,,,50%,,214S,Night Raid Vortex
+45[55],All,15~32,,,-17,KD,,3,,100%,,41236H
+Fafnir,65,Guard Crush,24,,,+11,KD,,4,,100%
+632146H,Tyrant Rave,70->100[130],All,5+2,,,-34,KD,,4->3,1~8F Full,100%
+,214214H,Heavy Mob Cemetery,40->161,Ground Throw,13+7,,,N/A,KD,,,14F~ Guardpoint
+100%

@@ -1,0 +1,17 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+236P,Alpha Blade (Horizontal),37,Mid,29,,,-4,KD,,,,
+j.236P,Alpha Blade (Horizontal),37,Mid,29,,,,KD,,,,
+236K,Alpha Blade (Diagonal),35,Mid,24,,,-1,KD,,,,
+j.236K,Alpha Blade (Diagonal),35,Mid,37,,,-7,KD,,,,
+623S,Beta Blade,29->25,Mid,7,,,-27,KD,,,,
+j.623S,Beta Blade,29->25,Mid,7,,,,KD,,,,
+236H,Gamma Blade,29,Mid,25,,,+6,+9,,,,
+236S,Resshou,27,Mid,13,,,-4,-1,,,,
+236S 236S,Rokusai,34,Low,,,,-6,-3,,,,
+236S 236K,Senshuu,39,High,,,,-16,KD,,,,
+63214S,Genrouzan,19->19->65,Throw,27,11,15,N/A,KD,,,,
+j.214P,Shuriken,9,Mid,22,,,,,,,
+236236K,Banki Messai,117,Mid,6+1,,,,KD,,,,
+632146H,Zansei Rouga,9x4-> 132,Mid,20+2,,,,KD,,,,
+j.632146H,Zansei Rouga,9x4-> 132,Mid,20+2,,,,D,,,

@@ -1,0 +1,14 @@
+input,name,damage,guard,startup,active,recovery,onBlock,onHit,riscGain,level,invuln
+
+[4]6H,Hammer Fall,58,All,18~47,2f,26,-9,SKD (+22),,,,
+[4]6H P,Hammer Fall Break,N/A,N/A,,,27,,,,,,
+632146P,Potemkin Buster,175,Ground Throw,5,4,38,,,,,,
+623H,Heat Knuckle,0->8*7->60,Air Guard Crush,12,4,18,+10~+1,KD/Wall Break,,,,
+236P,Mega Fist,60,High,25,7,16,-6,-3,,3,,
+214P,Mega Fist,60,High,25,7,6,+4,+7,,3,,
+236S,Slide Head,0,Low,29,2,28,0,KD,,4,,
+63214S,F.D.B.,55 [75],All,21~28 [28~38],3,20,-6,KD,,3,,
+Reflect Projectile,,50,All,1,,,+11,SKD (+46),,3,,
+214H,Garuda Impact,73,Guard Crush,28,13,24,+19,+25~35,,,
+236236S,Heavenly Potemkin Buster,220,Air Unblockable,12+0,15,16,N/A,KD,,,,
+632146H,Giganter Kai,120,All,10+9,3-> 301,2-> 28,+1,KD,,,
