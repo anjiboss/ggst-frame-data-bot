@@ -23,7 +23,7 @@ client.on("message", (msg) => {
       // ***
       //  Help Command
       msg.reply(
-        "```fix\nCommand: !.<s/n>.<char_name>.<move>\n  n means Normal Move || s means Special Move\n  Exmaple: Character: Anji, Move: 2p --> !.n.anji.2p \n    Character: Anji, Move: 236P --> !.s.anji.236P\nType: !char for Character's Name List \nContact AnjiBoss#6791 for Bot issue```"
+        "```fix\nCommand: !.<s/n>.<char_name>.<move>\n  n means Normal Move || s means Special Move\n \nWarning: Don't use dot(.) in jump | close | far --> j.S -> jS | c.S => cS | f.S => fS\nExmaple: Character: Anji, Move: 2p --> !.n.anji.2p \n    Character: Anji, Move: 236P --> !.s.anji.236P\nType: !char for Character's Name List \nContact AnjiBoss#6791 for Bot issue```"
       );
     } else if (command === "!char") {
       // ***
